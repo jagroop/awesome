@@ -39,3 +39,9 @@ VueJS
 =====
 
 ### Components:
+
+
+Emails
+======
+
+- [Email copy from great companies](https://www.goodemailcopy.com/)
