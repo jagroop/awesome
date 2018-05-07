@@ -5,22 +5,37 @@ List of of awesome resources for web development.
 Laravel
 =======
 
+### Code generators:
+
+
+### Packages:
+
+
+### Tutorials:
+
+
 PHP
 ===
+
+### Packages:
 
 CSS
 ===
 
+### UI Kits:
+
 HTML
 ====
 
-JavaScript
-==========
+### Admin Pannels
 
 
-NodeJS
-======
+JavaScript & NodeJS
+===================
 
+### Packages:
 
 VueJS
 =====
+
+### Components:
