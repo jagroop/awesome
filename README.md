@@ -10,6 +10,7 @@ Laravel
 
 ### Packages:
 
+- [Laravel Language Manager](https://github.com/themsaid/laravel-langman-gui)
 
 ### Tutorials:
 
