@@ -7,6 +7,8 @@ Laravel
 
 ### Code generators:
 
+- [InfyOmLabs](https://github.com/InfyOmLabs/laravel-generator)
+- [LaraCogs](https://github.com/GrafiteInc/Builder)
 
 ### Packages:
 
