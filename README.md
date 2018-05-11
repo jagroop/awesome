@@ -22,27 +22,38 @@ PHP
 
 - [An asynchronous event driven PHP framework](https://github.com/walkor/Workerman)
 
-CSS
-===
+HTML & CSS
+==========
 
 ### UI Kits:
 
-HTML
-====
+- [Tabler - BS4 UI Kit](https://github.com/tabler/tabler)
 
 ### Admin Pannels
 
+- [ElaAdmin](https://colorlib.com/polygon/elaadmin/index.html)
 
-JavaScript & NodeJS
-===================
+JavaScript
+==========
 
 ### Packages:
+
+- [JS Fuzzy Search](https://github.com/krisk/Fuse)
+- [Floating elements](https://github.com/Haroenv/floating.js)
+
+NodeJS
+======
+
+### Packages:
+
+- [Hotel - Process manager](https://github.com/typicode/hotel)
 
 VueJS
 =====
 
 ### Components:
 
+- [Vee-validate](https://github.com/baianat/vee-validate) Vue.js input validation plugin.
 
 Emails
 ======
