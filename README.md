@@ -13,14 +13,14 @@ Laravel
 ### Packages:
 
 - [Laravel Language Manager](https://github.com/themsaid/laravel-langman-gui)
-
-### Tutorials:
-
+- [Laravel Email Confirm](https://github.com/beyondcode/laravel-confirm-email)
 
 PHP
 ===
 
 ### Packages:
+
+- [An asynchronous event driven PHP framework](https://github.com/walkor/Workerman)
 
 CSS
 ===
