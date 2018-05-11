@@ -20,42 +20,42 @@ PHP
 
 ### Packages:
 
-- [An asynchronous event driven PHP framework](https://github.com/walkor/Workerman)
+- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP framework
 
 HTML & CSS
 ==========
 
 ### UI Kits:
 
-- [Tabler - BS4 UI Kit](https://github.com/tabler/tabler)
+- [Tabler](https://github.com/tabler/tabler) - Bootstrap 4 UI Kit
 
 ### Admin Pannels
 
-- [ElaAdmin](https://colorlib.com/polygon/elaadmin/index.html)
+- [ElaAdmin](https://colorlib.com/polygon/elaadmin/index.html) - Bootstrap admin pannel
 
 JavaScript
 ==========
 
 ### Packages:
 
-- [JS Fuzzy Search](https://github.com/krisk/Fuse)
-- [Floating elements](https://github.com/Haroenv/floating.js)
+- [Fuse](https://github.com/krisk/Fuse) - JS Fuzzy Search
+- [Floating](https://github.com/Haroenv/floating.js) - Floating numbers , strings and other elements.
 
 NodeJS
 ======
 
 ### Packages:
 
-- [Hotel - Process manager](https://github.com/typicode/hotel)
+- [Hotel](https://github.com/typicode/hotel) - Process manager For developers
 
 VueJS
 =====
 
 ### Components:
 
-- [Vee-validate](https://github.com/baianat/vee-validate) Vue.js input validation plugin.
+- [Vee-validate](https://github.com/baianat/vee-validate) - Vue.js input validation plugin.
 
 Emails
 ======
 
-- [Email copy from great companies](https://www.goodemailcopy.com/)
+- [Goodemailcopy](https://www.goodemailcopy.com/) - Email copy from great companies
