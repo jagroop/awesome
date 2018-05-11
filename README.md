@@ -29,9 +29,9 @@ HTML & CSS
 
 - [Tabler](https://github.com/tabler/tabler) - Bootstrap 4 UI Kit
 
-### Admin Pannels
+### Admin Panels
 
-- [ElaAdmin](https://colorlib.com/polygon/elaadmin/index.html) - Bootstrap admin pannel
+- [ElaAdmin](https://colorlib.com/polygon/elaadmin/index.html) - Bootstrap admin panel
 
 JavaScript
 ==========
