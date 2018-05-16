@@ -14,6 +14,7 @@ Laravel
 
 - [Laravel Language Manager](https://github.com/themsaid/laravel-langman-gui)
 - [Laravel Email Confirm](https://github.com/beyondcode/laravel-confirm-email)
+- [Laravel Options](https://github.com/appstract/laravel-options) - Global key-value store in the database
 
 PHP
 ===
