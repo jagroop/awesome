@@ -33,6 +33,7 @@ HTML & CSS
 ### Admin Panels
 
 - [ElaAdmin](https://colorlib.com/polygon/elaadmin/index.html) - Bootstrap admin panel
+- [Adminator](https://github.com/puikinsh/Adminator-admin-dashboard) -Adminator is a easy to use and well design admin dashboard template.
 
 JavaScript
 ==========
